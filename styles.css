@@ -1,0 +1,27 @@
+/* External CSS */
+
+/* body er en CSS Selector */
+body {
+    /* {} idikerer en CSS Declaration */
+    /* property:value; som er en CSS Rule */
+    background-color: lightcoral;
+}
+
+ul {
+    display: flex;
+    justify-content: end;
+    gap: 15px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* id-navn Selector */
+#home {
+
+}
+
+/* class-navn Selector */
+.listItem {
+
+}
