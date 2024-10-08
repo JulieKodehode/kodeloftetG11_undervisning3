@@ -1,9 +1,9 @@
 /* External CSS */
 
-/* body er en CSS Selector */
+/* body is a CSS Selector */
+/* {} idicates a CSS Declaration */
 body {
-    /* {} idikerer en CSS Declaration */
-    /* property:value; som er en CSS Rule */
+  /* property:value; is a CSS Rule */
     background-color: lightcoral;
 }
 
@@ -16,12 +16,12 @@ ul {
     padding: 0;
 }
 
-/* id-navn Selector */
+/* id-name Selector */
 #home {
 
 }
 
-/* class-navn Selector */
+/* class-name Selector */
 .listItem {
 
 }
